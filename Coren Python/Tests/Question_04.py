@@ -1,0 +1,1 @@
+area = float(input('Enter the area of wall:'))
