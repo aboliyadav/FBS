@@ -1,3 +1,5 @@
+# Write a program to calculate profit or loss.
+
 cost_price = int(input('Enter cost price :'))
 Selling_price = int(input('Enter selling price :'))
 

@@ -1,3 +1,5 @@
+# Find the area and circumference of circle.
+
 r = int(input('Enter the radius :'))
 
 C = 2 * 3.14 * r

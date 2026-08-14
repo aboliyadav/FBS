@@ -1,3 +1,5 @@
+# Write a program to enter base and height of a triangle and find its area.
+
 H= int(input('Enter the Height :'))
 B = int(input('Enter the Base :'))
 

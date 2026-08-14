@@ -1,3 +1,5 @@
+# Write a program to calculate the percentage of student based on marks of any 5 subjects.
+
 Marathi = int(input(' Marathi Subject marks 1 :'))
 History = int(input(' History Subject marks 2 :'))
 Math  = int(input(' Math Subject marks 3 :'))

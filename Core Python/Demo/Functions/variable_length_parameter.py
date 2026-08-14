@@ -1,3 +1,8 @@
+# 1] To pass multiple values to function 
+# 2] mention 1 asterisk symbol before parameter name in function defination 
+# 3] passed values are stored in tuple format 
+# 4] use for loop to iterate values from tuple 
+
 def add (*data):
     sum=0
     for val in data:

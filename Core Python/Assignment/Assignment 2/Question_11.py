@@ -1,3 +1,6 @@
+# Write a program to accept an integer amount from user and tell minimum
+# number of notes needed for representing that amount.
+
 amount =int(input('Enter the amount :'))
 n2000 = amount // 2000
 amount = amount % 2000

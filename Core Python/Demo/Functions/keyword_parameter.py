@@ -1,3 +1,9 @@
+# 1] To neglect positional parameter concept 
+# 2] Assign value to parameter in function call 
+# 3] parameter name in function definition and function call should be same 
+# 4] flow from right to left 
+
+
 def emp(id, name,sal, dept  ):
     print('ID :',id)
     print('NAME:',name)

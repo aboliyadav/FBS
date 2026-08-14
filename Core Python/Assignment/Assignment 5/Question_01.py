@@ -1,4 +1,6 @@
-Correct_id ='admin'
+# Write a program to prompt user to enter userid and password. If Id and password is incorrect give him chance to re-enter the credentials. Let him try 3
+# times. After that program to terminate.
+Correct_id = 'Admin'
 Correct_Password = '1234'
 
 for i in range(3):

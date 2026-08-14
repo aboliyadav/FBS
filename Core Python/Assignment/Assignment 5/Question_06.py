@@ -1,3 +1,6 @@
+# Write a program to print first n prime numbers.
+
+
 n = int(input("Enter how many prime numbers: "))
 
 count = 0

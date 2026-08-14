@@ -1,3 +1,6 @@
+# WAP to check if given number is Perfect Number.
+
+
 n = int(input("Enter a number: "))
 
 sum = 0

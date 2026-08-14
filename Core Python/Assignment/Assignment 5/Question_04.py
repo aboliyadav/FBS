@@ -1,3 +1,5 @@
+# WAP to print Armstrong number within a given range
+
 start = int(input("Enter starting number: "))
 end = int(input("Enter ending number: "))
 
