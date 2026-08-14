@@ -1,9 +1,0 @@
-num = int(input('Enter number:'))
-
-if(num == 0):
-    print('the number is neutral.')
-elif(num >0):
-    print(f'{num} is a positive.')
-else:
-    print(f'{num} is a negative.')    
-       
